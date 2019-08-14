@@ -1,0 +1,22 @@
+## Adenovirus annotation
+
+Human adenovirus C serotype 5, complete genome
+Accession: AY339865.1
+
+GFF and Fasta file was downloaded from:
+http://www.ncbi.nlm.nih.gov/nuccore/AY339865.1
+
+# Annotation was adapted to
+Used Virus version: nt 28593-30464 deleted (E3-part)
+
+
+## Human genome
+
+reference genome:
+version: hg19
+downloaded from:
+
+reference gene annotation:
+
+GENCODE v.25 liftOver to hg19
+obtained from: https://www.gencodegenes.org/

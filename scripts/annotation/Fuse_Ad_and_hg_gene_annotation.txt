@@ -1,0 +1,6 @@
+# concatenate Adenovirus and human genome/annotation
+########## AdVir_del
+
+cd ~/annotation
+
+cat AdVir_del_final.gtf gencode.v25lift37.annotation.gtf >hg19_genes_and_AdVir_del.gtf
