@@ -100,6 +100,8 @@ done < $annotationDir/quantile_norm/cond_low.sh
 ##################
 cd $outDANPOSdir/quantile_norm_high/
 
+mkdir -p bigWig
+
 for wig in *qnor.wig;do
 
 name=$(echo $wig| cut -d'_' -f 1-3)
@@ -107,6 +109,8 @@ name=$(echo $wig| cut -d'_' -f 1-3)
 mkdir $name
 
 python danpos.py dpos $wig -jd 50 -z 5 -q 10 -a 1 -o $name >$name/running_info.txt
+
+wigToBigWig $name/pooled/*wig $annotationDir/ChromAdVir_del_info.txt "bigWig/"$name".bw"
 
 done
 
@@ -115,6 +119,8 @@ done
 ##################
 cd $outDANPOSdir/quantile_norm_low/
 
+mkdir -p bigWig
+
 for wig in *qnor.wig;do
 
 name=$(echo $wig| cut -d'_' -f 1-3)
@@ -122,5 +128,7 @@ name=$(echo $wig| cut -d'_' -f 1-3)
 mkdir $name
 
 python danpos.py dpos $wig -jd 50 -z 5 -q 10 -a 1 -o $name >$name/running_info.txt
+
+wigToBigWig $name/pooled/*wig $annotationDir/ChromAdVir_del_info.txt "bigWig/"$name".bw"
 
 done
