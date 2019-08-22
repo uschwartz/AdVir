@@ -5,4 +5,3 @@ Infections with adenoviruses are widespread in humans, normally being asymptomat
 
 ## Content
 Modified virus annotation and code used for analyzing early steps of Adenovirus infection:
-
