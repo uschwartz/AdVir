@@ -1,0 +1,8 @@
+Sample_Name,replicate,path_mono,path_sub,MNase_U
+TP.0.0h,Replica1,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_0_0h_Replica_1_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_0_0h_Replica_1_sub.bam,0
+TP.0.5h,Replica1,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_0_5h_Replica_1_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_0_5h_Replica_1_sub.bam,0.5
+TP.0.5h,Replica2,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_0_5h_Replica_2_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_0_5h_Replica_2_sub.bam,0.5
+TP.1.0h,Replica1,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_1_0h_Replica_1_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_1_0h_Replica_1_sub.bam,1
+TP.1.0h,Replica2,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_1_0h_Replica_2_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_1_0h_Replica_2_sub.bam,1
+TP.4.0h,Replica1,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_4_0h_Replica_1_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_4_0h_Replica_1_sub.bam,4
+TP.4.0h,Replica2,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_4_0h_Replica_2_sub.bam,/Volumes/PromisePegasus/_Research_/R008_ChIP_AdVIr/data/lowMNase//low_MNase_TP_4_0h_Replica_2_sub.bam,4
