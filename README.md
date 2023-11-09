@@ -5,3 +5,6 @@ Infections with adenoviruses are widespread in humans, normally being asymptomat
 
 ## Content
 Modified virus annotation and code used for analyzing early steps of Adenovirus infection:
+
+## Publication
+Schwartz, Uwe, et al. "Changes in adenoviral chromatin organization precede early gene activation upon infection." The EMBO Journal 42.19 (2023): e114162.
